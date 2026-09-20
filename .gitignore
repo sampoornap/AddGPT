@@ -1,0 +1,7 @@
+.venv
+.qodo
+.vscode
+.DS_Store
+
+gpt_dev.py
+
